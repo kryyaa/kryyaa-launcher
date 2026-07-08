@@ -25,7 +25,7 @@ cargo build --release
 ## манифесты
 можно брать из:
 - https://discord.gg/dBbXAJTxH5
-- @kryyaasteambot 
+- https://t.me/kryyaasteambot 
 
 онлайн/дрм фиксы:
 - https://generator.ryuu.lol/fixes
