@@ -22,3 +22,10 @@ cargo build --release
 - linux: `wine` в PATH — для запуска windows-игр
 - бинарники `DepotDownloaderMod` под нужную платформу в `win/` / `linux/`
 
+## манифесты
+можно брать из:
+- https://discord.gg/dBbXAJTxH5
+- @kryyaasteambot 
+
+онлайн/дрм фиксы:
+- https://generator.ryuu.lol/fixes
