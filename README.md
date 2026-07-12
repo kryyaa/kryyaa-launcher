@@ -1,4 +1,4 @@
-# kryyaa launcher
+# kryyaa launcher (SOON!!!)
 
 гуи на egui/eframe: скачивание steam игр по манифестам (zip с .lua) через DepotDownloaderMod + лаунчер 
 
